@@ -1,10 +1,11 @@
-package com.example.OpenSourceDevOps;
+package com.example.opensourcedevops;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class OpenSourceDevOpsApplication {
-
-	public static void main(String[] args) { SpringApplication.run(OpenSourceDevOpsApplication.class, args); }
+  public static void main(String[] args) {
+    SpringApplication.run(OpenSourceDevOpsApplication.class, args);
+  }
 }

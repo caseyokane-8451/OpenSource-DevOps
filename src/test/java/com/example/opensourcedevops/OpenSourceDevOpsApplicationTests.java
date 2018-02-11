@@ -1,4 +1,4 @@
-package com.example.OpenSourceDevOps;
+package com.example.opensourcedevops;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
